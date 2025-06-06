@@ -1,0 +1,10 @@
+IN,India,70,80,30
+DE,Germany,85,90,15
+BR,Brazil,60,65,45
+JP,Japan,90,85,10
+ZA,South Africa,55,60,50
+US,United States,88,92,12
+CN,China,65,75,35
+NG,Nigeria,50,55,60
+FR,France,83,88,18
+MX,Mexico,58,68,40
